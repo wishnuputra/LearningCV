@@ -29,7 +29,7 @@ class MainWindow(QMainWindow):
         self.setCentralWidget(sc)
 
         self.show()
-
+a
 
 app = QApplication(sys.argv)
 w = MainWindow()
